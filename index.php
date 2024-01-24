@@ -1,29 +1,27 @@
 <?php include 'header.php'; ?>
-
-
 <!DOCTYPE html>
 <html lang="ro">
 
 <head>
     <meta charset="UTF-8">
-    <title>BeniStore</title>
-    <link rel="stylesheet" href="style.css">
+    <title>BRL Construct</title>
+    <link rel="stylesheet" href="index.css">
 </head>
 
 <body>
     <div class="home-content">
-        <h1 class="title-page">Bine ai venit la BeniStore - Expertii in Contructii</h1>
+        <h1 class="title-page">Bine ai venit la BRL Construct - Expertii in Contructii</h1>
         <div class="description-company">
             <div class="img-cotainer">
                 <img src="images/img1.jpg" alt="" class='img'>
             </div>
-            <p class="paragraf1">Bine ați venit la [Numele Firme], unde ne mândrim cu o vastă experiență în
+            <p class="paragraf1">Bine ați venit la BRL Construct, unde ne mândrim cu o vastă experiență în
                 domeniul construcțiilor. Suntem o echipă dedicată, pusă pe punerea în
                 aplicare a fiecărui proiect cu pasiune și excelență. În fiecare cărămidă
                 pe care o așezăm și în fiecare detaliu pe care îl integrăm, descoperiți
                 angajamentul nostru ferm pentru calitate, profesionalism și inovație. Fie
                 că este vorba despre construirea unui cămin, a unui spațiu comercial sau
-                a unei structuri industriale, [Numele Firmei] aduce laolaltă cunoștințe
+                a unei structuri industriale, BRL Construct aduce laolaltă cunoștințe
                 tehnice solide și abordări inovatoare pentru a transforma visurile
                 clienților în realitate durabilă.</p>
         </div>

@@ -40,6 +40,9 @@ margin-bottom: 0px;
     width: 130px;
     object-fit: contain;
 }
+/* .partner img:hover{
+    opacity: 0.40;
+} */
 .total{ 
     margin-top: 50px; 
     margin-bottom: 100px;  
