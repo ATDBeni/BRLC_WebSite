@@ -11,8 +11,6 @@
   margin: 20px;
   align-items: center;
 }
-.first-section p {
-}
 .second-section {
   display: flex;
   flex-direction: row;
@@ -32,7 +30,7 @@ p {
 .img-presentation {
   display: flex;
   justify-content: center;
-  width: 600px;
+  margin-bottom: 50px;
 }
 .img-presentation img {
   width: 80%;
@@ -41,6 +39,7 @@ p {
 .history {
   border: 1px solid black;
   padding: 15px;
+  margin-bottom: 50px;
 }
 .history h3 {
   text-align: center;

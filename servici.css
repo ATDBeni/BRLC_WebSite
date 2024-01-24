@@ -1,0 +1,28 @@
+.servici {
+  margin-left: 2%;
+}
+.list-of-services {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 20px;
+}
+.list-of-services div {
+  border-radius: 29px;
+  padding: 15px;
+  background-color: #8bc6ec;
+  background-image: linear-gradient(135deg, #8bc6ec 0%, #9599e2 100%);
+  font-weight: bold;
+}
+.final-text{
+display: flex;
+justify-content: center;
+}
+.text{
+    background-color: #8bc6ec;
+    width: 50%;
+    border-radius: 29px;
+    padding: 20px;
+    font-size: 22px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
