@@ -1,0 +1,61 @@
+.home-content{
+    margin-left: 2%;
+}
+.title-page{
+    text-align: center;
+    font-family: monospace;
+}
+.description-company{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+}
+.img-cotainer{
+    width: 50%;
+}
+.img{
+    width: 450px;
+    height: 290px;
+    border-radius: 29px;
+}
+.paragraf1{
+    font-size: 16.5px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.partner-banner h4{
+text-align: center;
+opacity: 0.38;
+font-weight: bold;
+margin-bottom: 0px;
+}
+.partner{
+    border-top: 1px solid rgba(0,0,0, 0.12);
+    border-bottom: 1px solid rgba(0,0,0, 0.12);
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    height: 150px;
+}
+.partner img{
+    width: 130px;
+    object-fit: contain;
+}
+.total{ 
+    margin-top: 50px; 
+    margin-bottom: 100px;  
+    display: flex;
+    justify-content: center;
+}
+.description-partner{
+    padding: 15px;
+    background-color: gray;
+    border-radius: 30px;
+    width: 85%;
+    display: flex;
+    justify-content: center;
+}
+.description-partner p{
+    font-family: cursive;
+    width: 80%;
+    text-align: center;
+}
