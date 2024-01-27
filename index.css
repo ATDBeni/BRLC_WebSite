@@ -1,64 +1,70 @@
-.home-content{
-    margin-left: 2%;
+
+body{
+    background-image: linear-gradient(to top, #a3bded 0%, #6991c7 100%);
 }
-.title-page{
-    text-align: center;
-    font-family: monospace;
+.home-content {
+  margin-left: 2%;
 }
-.description-company{
-    display: flex;
-    flex-direction: row;
-    gap: 20px;
+.title-page {
+  text-align: center;
+  font-family: monospace;
 }
-.img-cotainer{
-    width: 50%;
+.description-company {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
 }
-.img{
-    width: 450px;
-    height: 290px;
-    border-radius: 29px;
+.img-cotainer {
+  width: 50%;
 }
-.paragraf1{
-    font-size: 16.5px;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+.img {
+  width: 450px;
+  height: 290px;
+  border-radius: 29px;
 }
-.partner-banner h4{
-text-align: center;
-opacity: 0.38;
-font-weight: bold;
-margin-bottom: 0px;
+.paragraf1 {
+  font-size: 16.5px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
 }
-.partner{
-    border-top: 1px solid rgba(0,0,0, 0.12);
-    border-bottom: 1px solid rgba(0,0,0, 0.12);
-    display: flex;
-    flex-direction: row;
-    justify-content: space-around;
-    height: 150px;
+.partner-banner h4 {
+  text-align: center;
+  opacity: 0.38;
+  font-weight: bold;
+  margin-bottom: 0px;
 }
-.partner img{
-    width: 130px;
-    object-fit: contain;
+.partner {
+  border-top: 1px solid rgba(0, 0, 0, 0.12);
+  border-bottom: 1px solid rgba(0, 0, 0, 0.12);
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  height: 150px;
+  background-color: white;
+}
+.partner img {
+  width: 130px;
+  object-fit: contain;
 }
 /* .partner img:hover{
     opacity: 0.40;
 } */
-.total{ 
-    margin-top: 50px; 
-    margin-bottom: 100px;  
-    display: flex;
-    justify-content: center;
+.total {
+  margin-top: 50px;
+  margin-bottom: 100px;
+  display: flex;
+  justify-content: center;
 }
-.description-partner{
-    padding: 15px;
-    background-color: gray;
-    border-radius: 30px;
-    width: 85%;
-    display: flex;
-    justify-content: center;
+.description-partner {
+  padding: 15px;
+  background-image: linear-gradient(120deg, #84fab0 0%, #8fd3f4 100%);
+  border-radius: 30px;
+  width: 85%;
+  display: flex;
+  justify-content: center;
 }
-.description-partner p{
-    font-family: cursive;
-    width: 80%;
-    text-align: center;
+.description-partner p {
+  font-family: cursive;
+  width: 80%;
+  text-align: center;
 }

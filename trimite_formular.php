@@ -63,8 +63,7 @@
 //     header("Location:index.php?mailsend");
 // }
 if(isset($_POST['nume']) && isset($_POST['mail']) && isset($_POST['message'])){
-    $name = $_POST['nume'];
-    $subject = $_POST['subject'];  
+    $name = $_POST['nume']; 
     $mailFrom = $_POST['mail'];
     $message = $_POST['message'];
 
