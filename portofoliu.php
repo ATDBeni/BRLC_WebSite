@@ -10,7 +10,23 @@
 
 <body>
     <?php include 'header.php'; ?>
+    <div class="portofoliu">
+        <h1>Aceste titlu
+        </h1>
+        <div class="sir-poze">
+            <img src="images/dede1.png" alt="">
+            <img src="images/dede1.png" alt="">
+            <img src="images/dede1.png" alt="">
+            <img src="images/dede1.png" alt="">
+            <img src="images/dede1.png" alt="">
+            <img src="images/dede1.png" alt="">
+            <img src="images/dede1.png" alt="">
+            <img src="images/dede1.png" alt="">
+            <img src="images/dede1.png" alt="">
+            <img src="images/dede1.png" alt="">
 
+        </div>
+    </div>
     <?php include 'footer.php'; ?>
 </body>
 

@@ -1,3 +1,6 @@
+h1 {
+  text-align: center;
+}
 .about-component {
   margin-left: 2%;
   display: flex;
@@ -35,6 +38,7 @@ p {
 .img-presentation img {
   width: 80%;
   height: 400px;
+  object-fit: cover;
 }
 .history {
   border: 1px solid black;

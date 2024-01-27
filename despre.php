@@ -10,6 +10,7 @@
 
 <body>
     <?php include 'header.php'; ?>
+    <h1>Despre BRL Construct</h1>
     <div class="about-component">
         <div class="first-section">
             <p>BRL Construct este o companie de construcții dedicată realizării
@@ -19,10 +20,10 @@
                 partener de încredere, specializat în construcții rezidențiale de
                 înaltă calitate, de la blocuri de apartamente elegante la case
                 unifamiliale primitoare.</p>
-            <img src="images/img1.jpg" alt="">
+            <img src="https://s42814.pcdn.co/wp-content/uploads/2019/12/iStock_172413371-1-scaled-1.jpg.optimal.jpg" alt="">
         </div>
         <div class="second-section">
-            <img src="images/img1.jpg" alt="">
+            <img src="https://i.pinimg.com/564x/68/d8/7e/68d87e319238998ae25942856d691590.jpg" alt="">
             <p>Fiecare proiect începe cu o abordare atentă a nevoilor și dorințelor
                 clienților noștri. Echipa noastră de profesioniști în construcții
                 și arhitecți lucrează îndeaproape cu beneficiarii pentru a
@@ -33,7 +34,7 @@
                 construcție.</p>
         </div>
         <div class="img-presentation">
-            <img src="images/img1.jpg" alt="">
+            <img src="https://img.freepik.com/premium-photo/hand-with-keys-blurred-house-background_688350-3388.jpg" alt="">
         </div>
         <div class="history">
             <h2>Istoria noastra</h2>

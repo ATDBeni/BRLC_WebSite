@@ -10,32 +10,61 @@ body {
     #3d1635 84%,
     #1c1a27 100%
   );
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
 }
 h1 {
   color: white;
+  text-align: center;
 }
 form {
   display: flex;
   flex-direction: column;
   width: 50%;
+  border: 3px solid black;
+  padding: 10px;
 }
 .formular {
   display: flex;
   justify-content: center;
   margin-bottom: 100px;
 }
-input {
-  margin-bottom: 25px;
-}
+
 .button {
+  margin-top: 30px;
   display: flex;
   justify-content: center;
 }
 .button button {
   width: 30%;
-  background-color: #b8235a;
-  color: #dbdcd7;
   border-radius: 10px;
   height: 30px;
   border: none;
+  font-weight: bold;
+}
+input {
+  margin-bottom: 25px;
+  height: 30px;
+}
+label {
+  color: white;
+  padding-bottom: 3px;
+}
+textarea {
+  max-width: 466px;
+}
+.contact {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+.contact-link {
+  width: 52%;
+  border: 3px solid black;
+  margin-bottom: 100px;
+}
+a {
+  text-decoration: none;
+  color: black;
 }

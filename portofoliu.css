@@ -1,0 +1,14 @@
+body{
+    margin-left: 2%;
+}
+.sir-poze {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 20px;
+}
+.sir-poze img{
+    width: 200px;
+    height: 150px;
+    border-radius: 19px;
+    
+}

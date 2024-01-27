@@ -1,6 +1,5 @@
-
-body{
-    background-image: linear-gradient(to top, #a3bded 0%, #6991c7 100%);
+body {
+  background-image: linear-gradient(to top, #a3bded 0%, #6991c7 100%);
 }
 .home-content {
   margin-left: 2%;
@@ -32,6 +31,7 @@ body{
   opacity: 0.38;
   font-weight: bold;
   margin-bottom: 0px;
+  color: white;
 }
 .partner {
   border-top: 1px solid rgba(0, 0, 0, 0.12);
@@ -46,9 +46,6 @@ body{
   width: 130px;
   object-fit: contain;
 }
-/* .partner img:hover{
-    opacity: 0.40;
-} */
 .total {
   margin-top: 50px;
   margin-bottom: 100px;
