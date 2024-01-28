@@ -11,19 +11,22 @@
 <body>
     <?php include 'header.php'; ?>
     <div class="portofoliu">
-        <h1>Aceste titlu
+        <h1>Acestea sunt doar cateva din proiectele noastre
         </h1>
         <div class="sir-poze">
-            <img src="images/dede1.png" alt="">
-            <img src="images/dede1.png" alt="">
-            <img src="images/dede1.png" alt="">
-            <img src="images/dede1.png" alt="">
-            <img src="images/dede1.png" alt="">
-            <img src="images/dede1.png" alt="">
-            <img src="images/dede1.png" alt="">
-            <img src="images/dede1.png" alt="">
-            <img src="images/dede1.png" alt="">
-            <img src="images/dede1.png" alt="">
+            <img src="images/IMG_3591.png" alt="">
+            <img src="images/IMG_3592.png" alt="">
+            <img src="images/IMG_3597.png" alt="">
+            <img src="images/IMG_3599.png" alt="">
+            <img src="images/IMG_3600.png" alt="">
+            <img src="images/const.jpg" alt="">
+            <img src="images/const1.jpg" alt="">
+            <img src="images/bloc1.jpg" alt="">
+            <img src="images/bloc2.jpg" alt="">
+            <img src="images/bloc3.jpg" alt="">
+            <img src="images/bloc4.jpg" alt="">
+            <img src="images/bloc5.jpg" alt="">
+
 
         </div>
     </div>
